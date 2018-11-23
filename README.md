@@ -2,11 +2,11 @@
 
 " Membuat Program Penjualan Barang "
 
-Deklarasi 
+Deklarasi :
 
 int kode, N, jumlah, banyak
  
-Deskripsi 
+Deskripsi :
 	
 1. input N sebagai banyak barang yang dibeli.
 2  Kode sebagai kode barang
