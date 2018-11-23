@@ -16,11 +16,11 @@ Deskripsi
 6. diskon sebagai potongan harga
 7. akhir sebagai penentu pembayaran setelah dikurangi diskon
 8. bayar sebagai penentu banyaknya pembayaran
-9  harga sebagai penentu harga barang
-10.duit sebagai inputan
-11.kembalian sebagai penentu uang kembalian.
-12.menentukan perulangan untuk banyaknya pembelian.
-13.menentukan perbandingan untuk menentukan diskon dalam setiap pembelian.
+9. harga sebagai penentu harga barang
+10. duit sebagai inputan
+11. kembalian sebagai penentu uang kembalian.
+12. menentukan perulangan untuk banyaknya pembelian.
+13. menentukan perbandingan untuk menentukan diskon dalam setiap pembelian.
 
 # Program C++
 
