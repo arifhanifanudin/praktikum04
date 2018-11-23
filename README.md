@@ -393,4 +393,4 @@ return 0;
 }
 
 # Foto Hasil
-![img] (https://raw.githubusercontent.com/arifhanifanudin/praktikum04/master/hasil01.PNG)
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum04/master/hasil01.PNG)
